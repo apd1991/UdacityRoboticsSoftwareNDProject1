@@ -1,3 +1,0 @@
-/home/ambika/myrobot2/build/CMakeFiles/edit_cache.dir
-/home/ambika/myrobot2/build/CMakeFiles/rebuild_cache.dir
-/home/ambika/myrobot2/build/CMakeFiles/hello.dir
